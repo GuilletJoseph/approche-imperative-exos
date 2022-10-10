@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Elnur
+ *
+ */
+module interactifstockagenombre {
+}
